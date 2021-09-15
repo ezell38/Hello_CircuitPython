@@ -39,8 +39,7 @@ while True:
 
 ### Evidence
 Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
-
-!.[IMG-202814240 (1).gif]
+<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/IMG-202814240%20(1).gif?raw=true" alt="NeoPixel Demo" width="500" >
 
 ### Wiring
 Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
