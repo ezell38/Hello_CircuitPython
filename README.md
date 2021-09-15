@@ -16,13 +16,29 @@ Description goes here
 Here's how you make code look like code:
 
 ```python
-Code goes here
+import board
+import neopixel
+import time
+
+dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
+
+dot.brightness=0.2
+
+while True:
+    print("Make it Green!")
+    dot.fill((255, 0, 0))
+    time.sleep(.5)
+    print("Make it White!")
+    dot.fill((0, 0, 255))
+    time.sleep(.5)
 
 ```
 
 
 ### Evidence
 Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
+
+
 
 ### Wiring
 Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
