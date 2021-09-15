@@ -13,6 +13,8 @@ This repository will actually serve as a aid to help you get started with your o
 ### Description & Code
 Description goes here
 
+The assignment was to make the light flash back and forth between two colors.
+
 Here's how you make code look like code:
 
 ```python
@@ -38,15 +40,16 @@ while True:
 ### Evidence
 Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
 
+!.[
 
 ### Wiring
 Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
 Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
 ### Reflection
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. 
 
-
+One mistake I made was forgeting to import time into the code. When I thought I had finished my code I plugged it into the Metro board and the lights were flashing at wierd intervals. Then once I inserted time it flashed back and forth perfectly. 
 
 
 ## CircuitPython_Servo
