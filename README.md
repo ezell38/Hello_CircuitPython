@@ -88,7 +88,7 @@ while True:
 
 ### Reflection
 
-
+While uploading the code onto the Metro board I realized that I had it set to upload to my file and not to the board. I had to save it as "code" in my CircuitPython folder.
 
 
 ## CircuitPython_LCD
