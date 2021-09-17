@@ -62,7 +62,7 @@ Code goes here
 
 ### Evidence
 
-<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/IMG-202814240%20(1).gif?raw=true" alt="ServoDemo" width="500" >
+<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/IMG-94088208.gif?raw=true" alt="ServoDemo" width="500" >
 
 
 ### Wiring
