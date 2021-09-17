@@ -84,6 +84,8 @@ while True:
 
 ### Wiring
 
+<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/Capture.PNG?raw=true" alt="ServoDemo" width="500" 
+
 ### Reflection
 
 
