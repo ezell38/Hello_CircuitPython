@@ -81,7 +81,6 @@ while True:
 
 <img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/IMG-94088208.gif?raw=true" alt="ServoDemo" width="500" >
 
-
 ### Wiring
 
 <img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/Capture.PNG?raw=true" alt="ServoDemo" width="500" 
