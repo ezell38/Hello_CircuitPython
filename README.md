@@ -93,6 +93,8 @@ While uploading the code onto the Metro board I realized that I had it set to up
 ## CircuitPython_LCD
 
 ### Description & Code
+     
+This assignment was to make it so the distance on the ultrasonic sensor corresponds with the color displayed on the Metro board.
 
 ```python
 import adafruit_hcsr04
@@ -129,9 +131,7 @@ Capture.1.PNG
 
 ### Reflection
 
-
-
-
+This assignment was hard because I kept saving the code to a file on my computer and not my Metro board. I also used some code from another student and didn't adjust my wiring to fit their code which messed up my Ultrasonic sensor. 
 
 ## NextAssignment
 
