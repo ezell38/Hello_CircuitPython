@@ -100,7 +100,9 @@ Code goes here
 ```
 
 ### Evidence
-
+     
+<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/IMG-86812912-3 (1).gif?raw=true" alt="CircuitPython_LCD" width="500">
+     
 ### Wiring
 
 ### Reflection
