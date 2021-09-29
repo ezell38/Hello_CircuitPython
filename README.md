@@ -133,6 +133,44 @@ Capture.1.PNG
 
 This assignment was hard because I kept saving the code to a file on my computer and not my Metro board. I also used some code from another student and didn't adjust my wiring to fit their code which messed up my Ultrasonic sensor. 
 
+## CircuitPython_Photointerrupters
+
+### Description & Code
+
+```python
+interrupter.pull = Pull.UP
+
+counter = 0
+
+photo = False
+state = False
+
+max = 4
+start = time.time()
+while True:
+    photo = interrupter.value
+    if photo and not state:
+            counter += 1
+    state = photo
+
+    remaining = max - time.time()
+
+    if remaining <= 0:
+        print("The number of interrupts is:", str(counter))
+        max = time.time() + 4
+        counter = 0
+
+```
+
+### Evidence
+
+<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/IMG-86812912-3 (1).gif?raw=true" alt="CircuitPython_LCD" width="500">
+
+### Wiring
+
+### Reflection
+
+
 ## NextAssignment
 
 ### Description & Code
