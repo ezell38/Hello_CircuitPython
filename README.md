@@ -137,6 +137,8 @@ This assignment was hard because I kept saving the code to a file on my computer
 
 ### Description & Code
 
+The goal of this assignment was to make the serial moniter display how many times the photointerrupter was interrupted in a 4 second span.
+
 ```python
 interrupter.pull = Pull.UP
 
@@ -168,7 +170,9 @@ while True:
 
 ### Wiring
 
-### Reflection
+5v -> +,L
+D1 -> Out
+GND -> - 
 
 
 ## NextAssignment
