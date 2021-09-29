@@ -164,7 +164,7 @@ while True:
 
 ### Evidence
 
-<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/IMG-86812912-3 (1).gif?raw=true" alt="CircuitPython_LCD" width="500">
+<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/IMG-182103440.gif?raw=true" alt="CircuitPython_LCD" width="500">
 
 ### Wiring
 
