@@ -55,6 +55,8 @@ One mistake I made was forgeting to import time into the code. When I thought I 
 
 ### Description & Code
 
+The goal of this assignment was to make a servo move back and forth 180 degrees. 
+
 ```python
 import pwmio
 import servo
@@ -94,7 +96,8 @@ While uploading the code onto the Metro board I realized that I had it set to up
 
 ### Description & Code
      
-This assignment was to make it so the distance on the ultrasonic sensor corresponds with the color displayed on the Metro board.
+This assignment was to make it so the distance on the ultrasonic sensor corresponds with the color displayed on the Metro board. I did this by using the try function.
+     
 
 ```python
 import adafruit_hcsr04
@@ -137,7 +140,7 @@ This assignment was hard because I kept saving the code to a file on my computer
 
 ### Description & Code
 
-The goal of this assignment was to make the serial moniter display how many times the photointerrupter was interrupted in a 4 second span.
+The goal of this assignment was to make the serial moniter display how many times the photointerrupter was interrupted in a 4 second span. I used if statements to tell it when to add ot the counter. 
 
 ```python
 interrupter.pull = Pull.UP
