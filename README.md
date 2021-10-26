@@ -176,3 +176,4 @@ GND -> -
 
 ### Reflection 
 
+One mistake I made during this assignment was setting the max to 5 not realizing that max correlated to the seconds. 
