@@ -174,34 +174,5 @@ while True:
 D1 -> Out
 GND -> - 
 
+### Reflection 
 
-## CircuitPython_LCD
-
-### Description & Code
-
-```python
-Code goes here
-
-```
-
-### Evidence
-
-### Wiring
-
-### Reflection
-
-
-## NextAssignment
-
-### Description & Code
-
-```python
-Code goes here
-
-```
-
-### Evidence
-
-### Wiring
-
-### Reflection
