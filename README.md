@@ -13,7 +13,7 @@ This repository will actually serve as a aid to help you get started with your o
 ### Description & Code
 Description goes here
 
-The assignment was to make the light flash back and forth between two colors.
+The assignment was to make the light flash back and forth between two colors. I used the while true function and dot fill to tell the metro board the color that correlates with the distance. 
 
 Here's how you make code look like code:
 
