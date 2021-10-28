@@ -55,7 +55,7 @@ One mistake I made was forgeting to import time into the code. When I thought I 
 
 ### Description & Code
 
-The goal of this assignment was to make a servo move back and forth 180 degrees. 
+The goal of this assignment was to make a servo move back and forth 180 degrees. using the print function allows you to tell the servo what angle want it to got to.
 
 ```python
 import pwmio
