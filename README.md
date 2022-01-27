@@ -35,11 +35,8 @@ while True:
 
 
 ### Evidence
+
 <img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/IMG-202814240%20(1).gif?raw=true" alt="NeoPixel Demo" width="500" >
-
-### Wiring
-
-
 
 ### Reflection
 
