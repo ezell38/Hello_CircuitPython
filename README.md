@@ -122,7 +122,7 @@ while True:
      
 ### Wiring
 
-<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/Capture.1.PNG?raw=true" alt="CircuitPythonDistance" width="500">
+<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/Capture7.PNG?raw=true" alt="CircuitPythonDistance" width="500">
 
 ### Reflection
 
