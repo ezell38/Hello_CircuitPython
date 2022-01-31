@@ -41,7 +41,7 @@ while True:
 
 ### Reflection
 
-One mistake I made was forgeting to import time into the code. When I thought I had finished my code I plugged it into the Metro board and the lights were flashing at wierd intervals. Then once I inserted time it flashed back and forth perfectly. 
+One mistake I made was forgeting to import time into the code. When I thought I had finished my code I plugged it into the Metro board and the lights were flashing at weird intervals. Then once I inserted time it flashed back and forth perfectly. 
 
 
 ## CircuitPython_Servo
@@ -126,7 +126,7 @@ while True:
 
 ### Reflection
 
-This assignment was hard because I kept saving the code to a file on my computer and not my Metro board. I also used some code from another student and didn't adjust my wiring to fit their code which messed up my Ultrasonic sensor. 
+I got this code online and when you import new code it is very important that you adjust your wiring to fit the code. For example, in this assignment I had my digital wire going out from D1 while the code said D2.
 
 ## CircuitPython_Photointerrupters
 
