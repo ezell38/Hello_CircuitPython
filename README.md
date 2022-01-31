@@ -142,7 +142,7 @@ counter = 0
 photo = False   
 state = False
 
-max = 4
+max = 4  #max = seconds
 start = time.time()
 while True:
     photo = interrupter.value
@@ -173,4 +173,4 @@ GND -> -
 
 ### Reflection 
 
-One mistake I made during this assignment was setting the max to 5 not realizing that max correlated to the seconds. 
+One mistake I made during this assignment was setting the max to 5. I did not realize that max correlates to seconds. 
