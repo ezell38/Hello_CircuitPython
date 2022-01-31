@@ -1,5 +1,6 @@
 # CircuitPython
-This repository will actually serve as a aid to help you get started with your own template.  You should copy the raw form of this readme into your own, and use this template to write your own.  If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts).
+
+This is my repository for my Circuit Python assignments for Engineering 3. If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts).
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Hello_CircuitPython](#Hello_CircuitPython)
@@ -81,7 +82,7 @@ while True:
 
 ### Reflection
 
-While uploading the code onto the Metro board I realized that I had it set to upload to my file and not to the board. I had to save it as "code" in my CircuitPython folder.
+While uploading the code onto the Metro board I realized that I had been uploading it onto my computer and not to the board. I had to save it as "code.py" in my CircuitPython folder.
 
 
 ## CircuitPython_Distance
@@ -165,8 +166,10 @@ while True:
 
 ### Wiring
 
-5v -> +,L
+5v -> +
+
 D1 -> Out
+
 GND -> - 
 
 ### Reflection 
