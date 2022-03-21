@@ -390,7 +390,7 @@ class RGB:
 
 ### Wiring 
 
-<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Capture20?raw=true" alt="RGB LED" width="500" >
+<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Capture20.PNG?raw=true" alt="RGB LED" width="500" >
 
 
 
