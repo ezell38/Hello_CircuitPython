@@ -395,7 +395,7 @@ class RGB:
 ### Evidence 
 
 
-<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/?raw=true" alt="RGB LED" width="500" >
+<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/ezgif-2-42c2728370.gif?raw=true" alt="RGB LED" width="500" >
 
 
 
