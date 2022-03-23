@@ -394,8 +394,8 @@ class RGB:
 
 ### Evidence 
 
+![ezgif-2-42c2728370](https://user-images.githubusercontent.com/71345159/159772398-5f7a19d5-0428-4e73-9ef5-a3cb129db219.gif)
 
-<img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/ezgif-2-42c2728370.gif?raw=true" alt="RGB LED" width="500" >
 
 
 
