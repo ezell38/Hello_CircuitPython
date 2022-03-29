@@ -184,7 +184,8 @@ The goal of this assignment was to uses classes to make a RGB led blink differen
 
 Main Code - 
 
-```import time
+```python
+import time
 import board
 from rgb import RGB
 
@@ -228,7 +229,8 @@ while True:
 ``` 
 RGB Class Code - 
 
-```import time
+```python
+import time
 import board
 import pwmio
 import digitalio
