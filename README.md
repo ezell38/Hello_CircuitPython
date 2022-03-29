@@ -5,8 +5,9 @@ This is my repository for my Circuit Python assignments for Engineering 3. If yo
 * [Table of Contents](#TableOfContents)
 * [Hello_CircuitPython](#Hello_CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
-* [CircuitPython_LCD](#CircuitPython_LCD)
-* [NextAssignmentGoesHere](#NextAssignment)
+* [CircuitPython Distance](#CircuitPython_Distance)
+* [CircuitPython Photointerrupters](#CircuitPython_Photointerrupters)
+* [C,O,M:Fun with RGB LEDs](#C,O,M:Fun_with_RGB_LEDs)
 ---
 
 ## Hello_CircuitPython
@@ -175,7 +176,7 @@ GND -> -
 
 One mistake I made during this assignment was setting the max to 5. I did not realize that max correlates to seconds. 
 
-## C,O,M:Fun with RGB LEDs
+## C,O,M:Fun_with_RGB_LEDs
 
 ### Description and Code
 
